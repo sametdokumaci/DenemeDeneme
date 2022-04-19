@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "watch-app": "nodemon",
+    "watch-app": "nodemon ./bin/www",
     "watch-gulp": "gulp",
     "start": "npm-run-all --parallel watch-app watch-gulp"
   },
