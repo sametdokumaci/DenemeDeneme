@@ -4,9 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "watch-app": "nodemon ./bin/www",
-    "watch-gulp": "gulp",
-    "start": "npm-run-all --parallel watch-app watch-gulp"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
